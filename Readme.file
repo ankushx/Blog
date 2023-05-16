@@ -1,2 +1,6 @@
 
 blog website using mern stack
+A simple blog website where user can login and register and see blog
+◦ user can see everyone blog but can edit/delete there own blog only
+◦ A responsive website where user able to perform CRUD operation on posts
+◦ Tech Stack: CSS,React,NodeJs,Express,Mongobd
